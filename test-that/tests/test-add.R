@@ -8,4 +8,3 @@ test_that("add is numeric", {
   expect_equal(add(1:5, 6:10), c(7, 9, 11, 13, 15))
   expect_error(add("a", "b"))
 })
-Contact GitHub API Training Shop Blog About
