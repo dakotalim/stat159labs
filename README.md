@@ -1,2 +1,2 @@
 # stat159labs
-Stat 159 Labs
+Stat 159 Lab, the lab7 branch
